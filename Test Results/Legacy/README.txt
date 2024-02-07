@@ -1,0 +1,2 @@
+1. For text files with 2D in the directory name, plot with Heatmap_V1 in the Outdated folder, or with the executable of the same name in Executables.
+2. For the other two folders, use Plot_XY_V1 in the Outdated folder, or with the executable of the same name in Executables.
